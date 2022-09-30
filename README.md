@@ -1,2 +1,2 @@
 # symmetrical-fiesta
-This is a test project
+Symmetrical fiesta is a project that serves to measure symetrecity of mexican bitharday fiestas...
